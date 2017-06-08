@@ -1,13 +1,12 @@
 # point_distance_filter
-removes points location based on specified distance
-
-This is the recent version of filtering points location based on a specified distance. The computation is based on haversine and vincentry
 
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan 17 11:05:17 2017
 
 @author: lpalao
+removes points location based on specified distance
+This is the recent version of filtering points location based on a specified distance. The computation is based on haversine and vincentry
 What it does: an algorithm that removes points that are within a specified distance to each other
 How to use:
     Run it in command prompt or in any IDLE. Preferrably install python using Anaconda
