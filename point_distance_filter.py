@@ -8,7 +8,7 @@ What it does: an algorithm that removes points that are within a specified dista
 How to use:
     Run it in command prompt or in any IDLE. Preferrably install python using Anaconda
     Make sure to have the following packages installed (easygui, shapefile, pandas)
-    In line 183 and 184, choose the preferred computation for distance, haversine or vicentry. Put a comment (#) on
+    In line 195 and 196, choose the preferred computation for distance, haversine or vicentry. Put a comment (#) on
     the algorithm that WILL NOT be used
     Specify the shapefile in the file browser (*.shp) in GCS:WGS84 coordinate reference system
     Specify the Distance filter value in kilometers
